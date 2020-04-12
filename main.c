@@ -1,13 +1,13 @@
 pseudo code
 {
-Initial Function()
+ Initial Function()
 {
-  //Sample Code
+ Feature1
 }
 
 Initial Security()
 {
- //Sample Code
+ Security Patch1
 }
 
 
